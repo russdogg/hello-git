@@ -1,0 +1,22 @@
+body
+{
+
+}
+
+.main 
+{
+	width: 806px;
+	height:1000px;
+}
+
+#main-pov
+{
+	width:806px;
+	height:200px;
+}
+
+#main-img
+{
+	background: url(../images/fat-baby.jpg);
+	background-repeat: no-repeat;
+}
