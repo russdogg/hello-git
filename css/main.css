@@ -25,6 +25,16 @@ body
 	font-weight: bold;
 }
 
+#pov-subtitle
+{
+	width:600px;
+	height:40px;
+	text-align: center;
+	font-family: arial;
+	font-size: 18px;
+	color:#555;
+
+
 #main-img
 {
 	background: url(../images/fat-baby.jpg);
